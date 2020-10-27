@@ -12,8 +12,8 @@ public class App
         System.out.println( "Hello World!" );
     }
 
-    public static int doubleTheNumber(int numbers) {
-        return numbers;
+    public static int doubleTheNumber(int number) {
+        return 2 * number;
     }
 
     private static int add( int numbers ) {
